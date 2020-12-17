@@ -1,0 +1,93 @@
+<section id="education"> <!-- in line with zoom on hover and link to website of  organisation -->
+                    <div> <!--related to web development-->
+                        <h2><a href="https://openclassrooms.com/fr/paths/185-developpeur-web" target="_blank"><img src="image/png/university/openclassrooms.png" alt="logo openclassroom"></a></h2>
+                            <h2>Diploma of Higher Education in web development</h2><br />
+                                <h3>2021</h3>	
+                                    <h4>Project 1: Discover the daily life of a web developer - <span class="edudesc">You are embarking on a great learning journey! Prepare for your training with the tools and best practices you will need throughout your courses and projects.</span></h4>
+                                        <ul>
+                                            <li>Learn how to learn</li>
+                                            <li>Understanding the web</li>
+                                            <li>Set up an information monitoring system</li>
+                                            <li>Discover the developer professions</li>
+                                        </ul>
+                                    <h4>Project 2: Turn a mockup into a website - <span class="edudesc">Get started on HTML and CSS by integrating the Reservia web page, a vacation booking platform.</span></h4>
+                                        <ul>
+                                            <li>Use git and github for your development projects</li>
+                                            <li>Learn how to create your website with HTML5 and CSS3</li>
+                                            <li>Learn how to use the command line in a terminal</li>
+                                            <li>Cut and integrate a model</li>
+                                        </ul>
+                                    <h4>Project 3: Energize a web page with CSS animations - <span class="edudesc">Implement the mobile version of a foodtech site with CSS animations.</span></h4>
+                                        <ul>
+                                            <li>Simplify CSS with SASS</li>
+                                            <li>Create modern CSS animations</li>
+                                        </ul>
+                                    <h4>Project 4: Optimize an existing website - <span class="edudesc">Get your business website to the top of Google results by implementing good SEO practices.</span></h4>
+                                        <ul>
+                                            <li>Optimize the referencing of your site (SEO) by improving its technical performance</li>
+                                            <li>Increase your traffic thanks to natural referencing (SEO)</li>
+                                            <li>Design accessible web content</li>
+                                        </ul>
+                                    <h4>Project 5: Build an e-commerce site - <span class="edudesc">Create the MVP of an e-commerce site using JavaScript to convince future investors to bet on your business!</span></h4>
+                                        <ul>
+                                            <li>Learn to program with Javascript</li>
+                                            <li>Write javascript for the web</li>
+                                            <li>create responsive websites with bootstrap 4</li>
+                                        </ul>
+                                    <h4>Project 6: Build a secure API for a food review app - <span class="edudesc">Build the backend and API for a food review app using OWASP, Node.js, MongoDB and Express technologies.</span></h4>
+                                        <ul>
+                                            <li>Go fullstack with Node.js, Express and MongoDB</li>
+                                            <li>Secure your web applications with OWASP</li>
+                                            <li>Adopt REST APIs for your web projects</li>
+                                        </ul>
+                                    <h4>Project 7: Create a corporate social network - <span class="edudesc">Create the social network of a company and handle SQL databases.</span></h4>
+                                        <ul>
+                                            <li>Manage your databases with MySQL</li>
+                                            <li>Create a web application with Vue.js</li>
+                                        </ul>
+                    </div>
+                    <div>
+                        <article>
+                            <p><a href="https://www.ucb.ac.uk/study/courses/postgraduate/hospitality-with-tourism-management-msc-pgdip-pgcert/" target="_blank"><img src="image/png/university/university_of_birmingham.png" alt="university of birmingham"></a></p>
+                                <h2>MSc Hospitality management with tourism, distinction</h2><br />
+                                    <h3>2012 - 2013</h3>	
+                                        <ul>
+                                            <li>Hospitality and tourism dynamics</li>
+                                            <li>Hospitality and tourism marketing</li>
+                                            <li>Hospitality and tourism facilities management</li>
+                                            <li>Managing across cultures</li>
+                                            <li>Managing profitable food and beverage operations</li>
+                                            <li>Revenue and performance analysis</li>
+                                            <li>Events Management</li>
+                                            <li><u>Masters dissertation</u>: How can small chains and independent hotels operating in Birmingham manage their online brand identity in order to attract and retain “Generation Y” customers? – A case study of Malmaison Birmingham.</li>
+                                        </ul>
+                                <h2>Bachelor's degree Business Enterprise</h2><br />
+                                    <h3>2009 - 2010</h3>
+                                        <ul>
+                                            <li>Business risk management</li>
+                                            <li>Strategic management</li>
+                                            <li>Contemporary entrepreneurial studies</li>
+                                            <li>Modern language and cultural studies</li>
+                                            <li>Research project</li>
+                                        </ul>
+                        </article>
+                        <article>
+                    <!--Universite Gustave Eiffel -->
+                            <p><a href="https://formations.univ-gustave-eiffel.fr/index.php?id=1941&tx_agof_brochure%5Bbrochure%5D=567&tx_agof_brochure%5Bcontroller%5D=Brochure&tx_agof_brochure%5Baction%5D=show&cHash=c2bf9d4c9a55a0ee940d6d3dbb3f45c3" target="_blank"><img src="image/svg/university/Gustave_Eiffel_2020.svg" alt="universite gustave eiffel"></a></p>
+                                <h2>Diploma of Higher Education in Business and Techniques with a 2 years apprenticeship</h2><br />
+                                    <h3>2007 - 2009</h3>
+                                        <ul>
+                                            <li>Two years apprenticeship at <a href="https://www.orange-business.com/fr/ventes-indirectes" target="_blank">Orange Business Services</a> as an Indirect Sales Advisor</li>
+                                            <li>Discover the professional environment: business organization, economy, law, marketing</li>
+                                            <li>Identify and communicate: communication, modern language, accounting, applied mathematics and statistics, negotiation</li>
+                                            <li>Data processing</li>
+                                            <li>Act on the markets</li>
+                                            <li>Become employable</li>
+                                            <li>Broaden your management skills</li>
+                                            <li>Develop your commercial performance</li>
+                                            <li>Adapt to changes</li>
+                                            <li>Master management tools</li>
+                                        </ul>
+                        </article>
+                    </div>
+                        </section>
